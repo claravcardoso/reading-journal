@@ -1,0 +1,14 @@
+.aboutContainer {
+  padding: 20px;
+}
+
+.aboutContainer h1 {
+  font-size: 2rem;
+  margin-bottom: 12px;
+  color: #003366;
+}
+
+.aboutContainer p {
+  font-size: 1.05rem;
+  line-height: 1.5;
+}

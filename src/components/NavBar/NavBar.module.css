@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #003366;
+  padding: 10px 20px;
+}
+
+.navList {
+  display: flex;
+  gap: 20px;
+}
+
+.navList a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.activeLink {
+  text-decoration: underline;
+}
